@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula.iml" filepath="$PROJECT_DIR$/Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia01/Dia 1/Dia 1.iml" filepath="$PROJECT_DIR$/dia01/Dia 1/Dia 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia03/Dia 3/Dia 3.iml" filepath="$PROJECT_DIR$/dia03/Dia 3/Dia 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia03/Dia 3 Projeto/Dia 3 Projeto.iml" filepath="$PROJECT_DIR$/dia03/Dia 3 Projeto/Dia 3 Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia04/Dia 4/Dia 4.iml" filepath="$PROJECT_DIR$/dia04/Dia 4/Dia 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia04/Dia 4 Projeto 1/Dia 4 Projeto 1.iml" filepath="$PROJECT_DIR$/dia04/Dia 4 Projeto 1/Dia 4 Projeto 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia04/Dia 4 Projeto 2/Dia 4 Projeto 2.iml" filepath="$PROJECT_DIR$/dia04/Dia 4 Projeto 2/Dia 4 Projeto 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia01/Projeto 1/Projeto 1.iml" filepath="$PROJECT_DIR$/dia01/Projeto 1/Projeto 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia01/iniciando/iniciando.iml" filepath="$PROJECT_DIR$/dia01/iniciando/iniciando.iml" />
+    </modules>
+  </component>
+</project>
